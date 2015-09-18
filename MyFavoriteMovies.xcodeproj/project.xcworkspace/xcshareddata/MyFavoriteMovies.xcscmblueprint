@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A9B6CE9DD27B03F37816DF26853729A8C0406721",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9795FB898AD0BFA0E9AE8C2DBFE1208FEB49D5D3" : 0,
+    "A9B6CE9DD27B03F37816DF26853729A8C0406721" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "86685BE9-6A79-4412-8376-8CDA7661C307",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9795FB898AD0BFA0E9AE8C2DBFE1208FEB49D5D3" : "",
+    "A9B6CE9DD27B03F37816DF26853729A8C0406721" : "MyFavoriteMoviesUdacity\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyFavoriteMovies",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MyFavoriteMovies.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.epitech.eu:\/felot_g\/Swift",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9795FB898AD0BFA0E9AE8C2DBFE1208FEB49D5D3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:RagnarLodbrok\/MyFavoriteMoviesUdacity.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A9B6CE9DD27B03F37816DF26853729A8C0406721"
+    }
+  ]
+}
